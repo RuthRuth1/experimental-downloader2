@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Sat Sep  5 14:05:19 UTC 2026
+Generated on: Sat Sep  5 14:33:25 UTC 2026
 
 - [Download Ad_le_Castillon_-__t__avec_toi.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ad_le_Castillon_-__t__avec_toi.z01)
 - [Download Ad_le_Castillon_-__t__avec_toi.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ad_le_Castillon_-__t__avec_toi.z02)
@@ -11,6 +11,17 @@ Generated on: Sat Sep  5 14:05:19 UTC 2026
 - [Download Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.z04](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.z04)
 - [Download Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.z05](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.z05)
 - [Download Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.zip](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ariana_Grande__Nathan_Sykes_-_Almost_Is_Never_Enough.zip)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z01)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z02)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z03](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z03)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z04](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z04)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z05](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z05)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z06](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z06)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z07](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z07)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z08](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z08)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z09](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z09)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z10](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.z10)
+- [Download Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.zip](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Avril_Lavigne_-_What_The_Hell_-_Acoustic_Version.zip)
 - [Download Britney_Spears_-_I_Wanna_Go.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.z01)
 - [Download Britney_Spears_-_I_Wanna_Go.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.z02)
 - [Download Britney_Spears_-_I_Wanna_Go.z03](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.z03)
