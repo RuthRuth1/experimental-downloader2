@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Sat Sep  5 14:33:25 UTC 2026
+Generated on: Sat Sep  5 14:56:08 UTC 2026
 
 - [Download Ad_le_Castillon_-__t__avec_toi.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ad_le_Castillon_-__t__avec_toi.z01)
 - [Download Ad_le_Castillon_-__t__avec_toi.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Ad_le_Castillon_-__t__avec_toi.z02)
@@ -27,6 +27,13 @@ Generated on: Sat Sep  5 14:33:25 UTC 2026
 - [Download Britney_Spears_-_I_Wanna_Go.z03](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.z03)
 - [Download Britney_Spears_-_I_Wanna_Go.z04](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.z04)
 - [Download Britney_Spears_-_I_Wanna_Go.zip](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Britney_Spears_-_I_Wanna_Go.zip)
+- [Download Green_Day_-_When_It_s_Time.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z01)
+- [Download Green_Day_-_When_It_s_Time.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z02)
+- [Download Green_Day_-_When_It_s_Time.z03](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z03)
+- [Download Green_Day_-_When_It_s_Time.z04](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z04)
+- [Download Green_Day_-_When_It_s_Time.z05](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z05)
+- [Download Green_Day_-_When_It_s_Time.z06](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.z06)
+- [Download Green_Day_-_When_It_s_Time.zip](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/Green_Day_-_When_It_s_Time.zip)
 - [Download JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z01](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z01)
 - [Download JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z02](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z02)
 - [Download JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z03](https://github.com/RuthRuth1/experimental-downloader2/raw/musics/musics/JBroadway__Black_Eyed_Peas_-_My_Humps_-_JBroadway_Remix.z03)
